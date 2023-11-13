@@ -1,0 +1,5 @@
+3 2 ute vac
+1 0 mtk ftc
+0 1 mez	kte
+0 0 paks puskas
+5 4 dvtk dvsc
