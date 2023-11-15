@@ -1,0 +1,4 @@
+Kis Peter	10
+Nagy Emil	11
+Kovacs Lajos	11
+Pesti Vilma	10
