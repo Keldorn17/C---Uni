@@ -1,0 +1,5 @@
+48 Nagy Attila 172 223 395 150
+23 Kis Lajos 148 286 434 123
+71 Kerekes Elek 154 230 384 123
+12 Papp Zsolt 169 216 385 123
+38 Varga Csaba 195 221 416 123

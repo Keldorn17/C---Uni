@@ -1,0 +1,4 @@
+Kis Peter 170 10 123
+Nagy Emil 148 11 123
+Kovacs Lajos 118 11 32
+Pesti Vilma 187 10 23
