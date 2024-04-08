@@ -38,7 +38,6 @@ private:
 };
 
 int main() {
-
     std::vector<Data> dataList;
 
     std::ifstream inputFile;
