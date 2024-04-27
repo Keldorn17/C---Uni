@@ -1,0 +1,44 @@
+﻿  FileName.cpp
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(8,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,9): error C2065: 'mov': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,13): error C2065: 'eax': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,23): error C2065: 'Move': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,28): error C2146: syntax error: missing ';' before identifier 'the'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,28): error C2065: 'the': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,32): error C2146: syntax error: missing ';' before identifier 'value'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,32): error C2065: 'value': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,38): error C2146: syntax error: missing ';' before identifier 'of'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,38): error C2065: 'of': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,41): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,47): error C2146: syntax error: missing ';' before identifier 'into'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,47): error C2065: 'into': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,52): error C2146: syntax error: missing ';' before identifier 'the'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,52): error C2065: 'the': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,56): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,56): error C2065: 'eax': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(9,60): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(10,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(10,13): error C2065: 'eax': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(10,24): error C2065: 'Add': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(10,28): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(10,35): error C2146: syntax error: missing ';' before identifier 'to'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(10,35): error C2065: 'to': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(10,38): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(10,38): error C2065: 'eax': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(11,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(11,9): error C2065: 'mov': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(11,13): error C2146: syntax error: missing ';' before identifier 'szam'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(11,19): error C2065: 'eax': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(11,24): error C2065: 'Move': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(11,29): error C2146: syntax error: missing ';' before identifier 'the'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(11,29): error C2065: 'the': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(11,33): error C2146: syntax error: missing ';' before identifier 'result'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(11,33): error C2065: 'result': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(11,40): error C2146: syntax error: missing ';' before identifier 'back'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(11,40): error C2065: 'back': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(11,45): error C2146: syntax error: missing ';' before identifier 'to'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(11,45): error C2065: 'to': undeclared identifier
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(11,48): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\First\First\FileName.cpp(12,5): error C2143: syntax error: missing ';' before '}'
