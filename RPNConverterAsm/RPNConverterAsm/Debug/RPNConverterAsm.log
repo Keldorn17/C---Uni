@@ -1,0 +1,14 @@
+﻿  RPNConverterAsm.cpp
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(178,33): warning C4566: character represented by universal-character-name '\u0151' cannot be represented in the current code page (1252)
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(191,3): warning C4409: illegal instruction size
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(231,3): warning C4409: illegal instruction size
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(249,3): warning C4409: illegal instruction size
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(276,3): warning C4409: illegal instruction size
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(406,3): warning C4409: illegal instruction size
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(283,2): warning C4102: 'forthEmptyErrorIf': unreferenced label
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(337,2): warning C4102: 'errorOperator': unreferenced label
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(350,2): warning C4102: 'errorOperandEncountered': unreferenced label
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(365,2): warning C4102: 'errorZero': unreferenced label
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(422,2): warning C4102: 'lastWhile': unreferenced label
+C:\Users\patai\OneDrive\Desktop\GitHub\C++\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(426,2): warning C4102: 'lastIfCheck': unreferenced label
+  RPNConverterAsm.vcxproj -> C:\Users\patai\OneDrive\Desktop\GitHub\C++\RPNConverterAsm\Debug\RPNConverterAsm.exe

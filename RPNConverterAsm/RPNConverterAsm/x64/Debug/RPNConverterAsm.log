@@ -1,0 +1,42 @@
+﻿  RPNConverterAsm.cpp
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(9,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(10,3): error C2065: 'mov': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(10,7): error C2146: syntax error: missing ';' before identifier 'saveESP'
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(10,16): error C2065: 'esp': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(15,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(16,3): error C2065: 'push': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(16,8): error C2146: syntax error: missing ';' before identifier 'language'
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(17,3): error C2065: 'push': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(17,8): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(18,3): error C2065: 'call': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(18,8): error C2146: syntax error: missing ';' before identifier 'setlocale'
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(18,8): warning C4551: function call missing argument list
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(25,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(26,3): error C2065: 'push': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(26,8): error C2146: syntax error: missing ';' before identifier 'askInfix'
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(27,3): error C2065: 'call': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(27,8): error C2146: syntax error: missing ';' before identifier 'dword'
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(27,8): error C2065: 'dword': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(27,14): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(27,14): error C2065: 'ptr': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(27,18): error C2146: syntax error: missing ';' before identifier 'printf'
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(27,18): warning C4551: function call missing argument list
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(28,3): error C2065: 'add': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(28,7): error C2146: syntax error: missing ';' before identifier 'esp'
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(28,7): error C2065: 'esp': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(30,3): error C2065: 'lea': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(30,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(30,7): error C2065: 'eax': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(31,3): error C2065: 'push': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(31,8): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(31,8): error C2065: 'eax': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(32,3): error C2065: 'push': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(32,8): error C2146: syntax error: missing ';' before identifier 'strFormat'
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(33,3): error C2065: 'call': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(33,8): error C2146: syntax error: missing ';' before identifier 'scanf'
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(33,8): warning C4551: function call missing argument list
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(40,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(41,3): error C2065: 'mov': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(41,7): error C2146: syntax error: missing ';' before identifier 'esp'
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(41,7): error C2065: 'esp': undeclared identifier
+C:\Users\patai\source\repos\RPNConverterAsm\RPNConverterAsm\RPNConverterAsm.cpp(33,8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
