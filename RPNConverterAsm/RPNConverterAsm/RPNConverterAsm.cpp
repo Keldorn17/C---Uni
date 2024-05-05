@@ -242,6 +242,7 @@ int main() {
 
 	secondWhile:
 		// (i < strSize && isOperand(infix[i])
+		mov eax, i;
 		cmp eax, strSize; // i < strSize
 		jge secondIfInner; 
 		mov eax, i;
@@ -443,7 +444,7 @@ int main() {
 		mov[edi + ecx], ' ';
 		inc index;
 		pop ecx;
-
+		jmp lastWhile;
 	lastWhileEnd:
 		mov edi, postfix;
 		mov ecx, index;
